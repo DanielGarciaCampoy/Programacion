@@ -1,0 +1,15 @@
+Algoritmo _4_5_ej5_
+	Definir a, b, x Como Real;
+	Escribir "Este programa resuelve ecuaciones de 1º grado del tipo ax + b = 0";
+	Escribir "Por favor, introduzca el valor de a";
+		Leer a;
+	Escribir "Ahora introduzca el valor de b";
+		Leer b;
+	
+	Si a = 0 Entonces
+		Escribir "Esa ecuación no tiene solución real";
+	SiNo
+		x <- -b/a;
+		Escribir "El valor de x es: ", x;
+	FinSi
+FinAlgoritmo
