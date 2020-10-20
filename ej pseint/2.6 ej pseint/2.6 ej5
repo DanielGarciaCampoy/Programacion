@@ -1,0 +1,7 @@
+Algoritmo variables_ej5
+	Definir euros, pesetas, Conversion Como Real;
+	euros <- 0.006;
+	pesetas <- 1;
+	Conversion <- pesetas * euros;
+	Escribir "Conversion: ", Conversion;
+FinAlgoritmo

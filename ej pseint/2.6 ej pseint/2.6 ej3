@@ -1,0 +1,9 @@
+Algoritmo variables_ej3
+	Definir nombre, direccion, telefono Como Caracter;
+	nombre <- "Daniel";
+	direccion <- "miDireccion";
+	telefono <- "miTelefono";
+	Escribir "Nombre: ", nombre;
+	Escribir "Direccion: ", direccion;
+	Escribir "Telefono: ", telefono;
+FinAlgoritmo

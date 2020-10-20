@@ -1,0 +1,7 @@
+Algoritmo algoritmo_ej6
+	Definir sinIva, Iva, precio Como Real;
+	sinIva <- 1;
+	Iva <- sinIva * 21 / 100;
+	precio <- sinIva + Iva;
+	Escribir "precio con Iva: ", precio;
+FinAlgoritmo

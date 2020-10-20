@@ -1,0 +1,7 @@
+Algoritmo variables_ej4
+	Definir euros, pesetas, Conversion Como Real;
+	pesetas <- 166;
+	euros <- 2;
+	Conversion <- pesetas * euros;
+	Escribir "Conversion: ", Conversion;
+FinAlgoritmo

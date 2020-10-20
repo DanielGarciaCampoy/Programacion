@@ -1,0 +1,5 @@
+Algoritmo variables_ej2
+	Definir nombre Como Caracter;
+	nombre <- "DanielGarciaCampoy";
+	Escribir "nombre completo: ", nombre;
+FinAlgoritmo
